@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Olá,%20eu%20sou%20o%20Luiz%20Fernando%20👋&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20%26%20Tester&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=Olá,%20eu%20sou%20o%20Luiz%20Fernando%20👋&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20%26%20Tester&descColor=000000&descAlignY=55&descSize=20" width="100%" />
 </div>
 
 <!-- Sobre mim e Redes Sociais -->
@@ -99,7 +99,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Obrigado%20pela%20visita!&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=000000&strokeWidth=0&animation=twinkling&textBg=false&color=gradient" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Obrigado%20pela%20visita!&fontSize=30&fontColor=000000&fontAlign=50&fontAlignY=60&strokeWidth=0&animation=twinkling&textBg=false&color=FFFFFF" />
 </div>
 
 <div align="center">
