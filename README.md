@@ -1,10 +1,10 @@
-<h1 data-importer="text" align="left">Olá, eu sou o Luiz Fernando 👋</h1>
+<h1 data-importer="text" align="center">Olá, eu sou o Luiz Fernando 👋</h1>
 
-<p data-importer="text" align="left">Desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados. Atualmente com foco em desenvolvimento de aplicações e inteligência artificial, trabalhando no <b>TradutorLibras</b>, um tradutor de Libras com um componente de IA chamado <b>IRIS IA</b>.</p>
+<p data-importer="text" align="left">Desenvolvedor e Tester apaixonado por tecnologia, sempre em busca de novos desafios e aprendizados. Atualmente com foco em desenvolvimento de aplicações web e testes.
 
 ###
 
-<h2 data-importer="text" align="left">📊 Estatísticas</h2>
+<h2 data-importer="text" align="left">📊 Status</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">🧰 Ferramentas</h2>
+<h2 data-importer="text" align="left">🧰 Frameworks e tecnologias</h2>
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -76,6 +76,16 @@
 
 ###
 
+<h2 data-importer="text" align="left">🎮 Contribuições</h2>
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizzrodrigues/luizzrodrigues/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizzrodrigues/luizzrodrigues/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luizzrodrigues/luizzrodrigues/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
+
+###
+
 <h2 data-importer="text" align="left">🌐 Redes Sociais</h2>
 
 <div data-importer="socials" align="left">
@@ -103,15 +113,5 @@
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=luizzrodrigues.luizzrodrigues&left_color=black&right_color=black&left_text=visitantes"  />
 </div>
-
-###
-
-<h2 data-importer="text" align="left">🎮 Contribuições no estilo Pac-Man</h2>
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizzrodrigues/luizzrodrigues/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizzrodrigues/luizzrodrigues/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/luizzrodrigues/luizzrodrigues/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
 
 ###
