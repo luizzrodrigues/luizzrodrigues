@@ -1,6 +1,6 @@
 <!-- Hero Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=Olá,%20eu%20sou%20o%20Luiz%20Fernando%20👋&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20%26%20Tester&descColor=000000&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=Olá,%20eu%20sou%20o%20Luiz%20Fernando%20👋&fontSize=40&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20e%20Tester&descColor=000000&descAlignY=55&descSize=20" width="100%" />
 </div>
 
 <!-- Sobre mim e Redes Sociais -->
